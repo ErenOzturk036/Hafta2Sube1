@@ -1,2 +1,2 @@
 # Hafta2Sube1
-bomba
+bombalamasyon
